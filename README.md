@@ -1,3 +1,5 @@
+# Note: This repo is now archived. It is still available READ ONLY for forking or historical interest.
+
 # UnityUWPBTLE
 A unity project that uses a UWP BTLE plug in winmd to access windows BTLE functionality.
 
